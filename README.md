@@ -3,7 +3,7 @@
 Projeto desenvolvido com foco em prática de SQL e modelagem de dados, utilizando dados públicos de solicitações registradas no município de Curitiba.
 
 
-'''
+```
 🗂 Estrutura do Projeto
 Solicitacoes-Curitiba/
 │
@@ -17,7 +17,7 @@ Solicitacoes-Curitiba/
 │   └── 004_analysis_queries.sql
 │
 └── README.md
-'''
+```
 ⚙️ Pipeline de Dados
 
 1️⃣ Primeira Tabela
