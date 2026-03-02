@@ -39,7 +39,7 @@ Os dados são inseridos da Primeira Tabela para a Tabela Final
 📈 Exemplos de Análises
 
 🔝 Top 10 bairros com mais reclamações
-
+```
 SELECT 
     bairro, 
     COUNT(*) AS total_reclamacoes
@@ -49,7 +49,7 @@ AND bairro IS NOT NULL
 GROUP BY bairro
 ORDER BY total_reclamacoes DESC
 LIMIT 10;
-
+```
 🛠 Tecnologias Utilizadas
 
 PostgreSQL
